@@ -62,3 +62,8 @@ blockquote[epub|type~="z3998:poem"] p > span{
 blockquote[epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
+
+p span.i1{
+	padding-left: 2em !important;
+	text-indent: -1em !important;
+}
