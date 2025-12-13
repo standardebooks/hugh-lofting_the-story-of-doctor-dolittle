@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Story of Doctor Dolittle</dc:title>
 		<meta property="file-as" refines="#title">Story of Doctor Dolittle, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Being the History of His Peculiar Life at Home and Astonishing Adventures in Foreign Parts. Never Before Printed.</dc:title>
+		<meta property="file-as" refines="#subtitle">Being the History of His Peculiar Life at Home and Astonishing Adventures in Foreign Parts. Never Before Printed.</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Story of Doctor Dolittle Being the History of His Peculiar Life at Home and Astonishing Adventures in Foreign Parts. Never Before Printed.</dc:title>
+		<meta property="file-as" refines="#fulltitle">Story of Doctor Dolittle, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Fantasy literature</dc:subject>
 		<dc:subject id="subject-2">Animals -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-3">Human-animal communication -- Juvenile fiction</dc:subject>
@@ -45,7 +52,7 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A kind-hearted doctor discovers he can speak the language of animals, leading him on a whimsical adventure to Africa, where he uses his unique gift to heal both creatures and people.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Story of Doctor Dolittle, the first installment in &lt;a href="https://standardebooks.org/ebooks/hugh-lofting"&gt;Hugh Lofting’s&lt;/a&gt; beloved series, centers on a kind-hearted British physician, John Dolittle, who discovers an extraordinary gift: the ability to communicate with animals. Set in early 20th-century England, the novel begins with Dolittle’s life in the quiet town of Puddleby-on-the-Marsh, where his unconventional methods and growing fascination with the animal kingdom spark curiosity and skepticism among his peers.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Story of Doctor Dolittle&lt;/i&gt;, the first installment in &lt;a href="https://standardebooks.org/ebooks/hugh-lofting"&gt;Hugh Lofting’s&lt;/a&gt; beloved series, centers on a kind-hearted British physician, John Dolittle, who discovers an extraordinary gift: the ability to communicate with animals. Set in early 20th-century England, the novel begins with Dolittle’s life in the quiet town of Puddleby-on-the-Marsh, where his unconventional methods and growing fascination with the animal kingdom spark curiosity and skepticism among his peers.&lt;/p&gt;
 			&lt;p&gt;The inciting incident occurs when Dolittle, during a medical emergency involving a wounded animal, realizes he can understand and converse with creatures in their own language—a revelation that propels him toward an adventure to Africa, where he seeks to cure a monkey epidemic just as he faces bankruptcy.&lt;/p&gt;
 			&lt;p&gt;The book raises thematic questions about the moral responsibilities of humans toward the natural world, the value of empathy across species, and the challenges of bridging cultural and linguistic divides. Its whimsical tone and imaginative premise invite readers to consider the possibilities of communication, the interconnectedness of all living beings, and the transformative power of compassion.&lt;/p&gt;
 			&lt;p&gt;Hugh Lofting’s The Story of Doctor Dolittle marks the debut of a series that would become a cornerstone of children’s literature, blending humor, adventure, and moral inquiry. Published in 1920 by Doubleday, Doran, and Company, the novel emerged during a period of shifting attitudes toward science, imperialism, and the ethical treatment of animals, reflecting both the optimism and complexities of the post-World War I era.&lt;/p&gt;
