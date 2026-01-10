@@ -13,19 +13,6 @@ section[epub|type~="dedication"] > *{
 	max-width: 80%;
 }
 
-section[epub|type~="dedication"] b{
-	font-variant: small-caps;
-}
-
-section[epub|type~="dedication"] b:first-of-type {
-	font-size: 1.4em;
-	text-transform: uppercase;
-}
-
-section[epub|type~="dedication"] b:nth-of-type(2) {
-	font-size: 1.3em;
-}
-
 @supports(display: flex){
 	section[epub|type~="dedication"] p{
 		align-items: center;
@@ -42,6 +29,18 @@ section[epub|type~="dedication"] b:nth-of-type(2) {
 	}
 }
 /* End centered dedications */
+
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+}
+
+section[epub|type~="dedication"] span{
+	font-size: larger;
+}
+
+section[epub|type~="dedication"] span:first-of-type{
+	text-transform: uppercase;
+}
 
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
