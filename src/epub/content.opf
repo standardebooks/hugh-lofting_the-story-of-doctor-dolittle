@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle</dc:identifier>
-		<dc:date>2025-08-06T19:45:06Z</dc:date>
-		<meta property="dcterms:modified">2025-08-06T19:45:06Z</meta>
+		<dc:date>2026-01-10T18:40:40Z</dc:date>
+		<meta property="dcterms:modified">2026-01-10T18:40:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,19 +51,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Doctor Dolittle</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A kind-hearted doctor discovers he can speak the language of animals, leading him on a whimsical adventure to Africa, where he uses his unique gift to heal both creatures and people.</dc:description>
+		<dc:description id="description">A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Story of Doctor Dolittle&lt;/i&gt;, the first installment in &lt;a href="https://standardebooks.org/ebooks/hugh-lofting"&gt;Hugh Lofting’s&lt;/a&gt; beloved series, centers on a kind-hearted British physician, John Dolittle, who discovers an extraordinary gift: the ability to communicate with animals. Set in early 20th-century England, the novel begins with Dolittle’s life in the quiet town of Puddleby-on-the-Marsh, where his unconventional methods and growing fascination with the animal kingdom spark curiosity and skepticism among his peers.&lt;/p&gt;
-			&lt;p&gt;The inciting incident occurs when Dolittle, during a medical emergency involving a wounded animal, realizes he can understand and converse with creatures in their own language—a revelation that propels him toward an adventure to Africa, where he seeks to cure a monkey epidemic just as he faces bankruptcy.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Story of Doctor Dolittle&lt;/i&gt;, the first installment in &lt;a href="https://standardebooks.org/ebooks/hugh-lofting"&gt;Hugh Lofting’s&lt;/a&gt; beloved &lt;a href="https://standardebooks.org/collections/doctor-dolittle"&gt;Doctor Dolittle series&lt;/a&gt;, centers on a kindhearted British physician, John Dolittle, who has an extraordinary gift: the ability to communicate with animals.&lt;/p&gt;
+			&lt;p&gt;Set in early 20th-century England, the novel begins with Dolittle’s life in the quiet town of Puddleby-on-the-Marsh, where his unconventional methods and growing fascination with the animal kingdom spark curiosity and skepticism among his peers. When he discovers he can understand and converse with creatures in their own language, he’s propelled toward an adventure to Africa, where he seeks to cure a monkey epidemic just as he faces bankruptcy.&lt;/p&gt;
 			&lt;p&gt;The book raises thematic questions about the moral responsibilities of humans toward the natural world, the value of empathy across species, and the challenges of bridging cultural and linguistic divides. Its whimsical tone and imaginative premise invite readers to consider the possibilities of communication, the interconnectedness of all living beings, and the transformative power of compassion.&lt;/p&gt;
-			&lt;p&gt;Hugh Lofting’s The Story of Doctor Dolittle marks the debut of a series that would become a cornerstone of children’s literature, blending humor, adventure, and moral inquiry. Published in 1920 by Doubleday, Doran, and Company, the novel emerged during a period of shifting attitudes toward science, imperialism, and the ethical treatment of animals, reflecting both the optimism and complexities of the post-World War I era.&lt;/p&gt;
 			&lt;p&gt;Lofting’s inspiration for the series was partly rooted in his own childhood fascination with animals and his experiences as a physician, though the character of Doctor Dolittle was also influenced by the growing scientific interest in animal behavior and communication at the time. The book’s success led to a series of sequels, many of which were written during Lofting’s later years, and it has since been adapted into films, stage plays, and radio dramas, cementing its place in popular culture.&lt;/p&gt;
-			&lt;p&gt;The novel’s enduring appeal lies in its ability to balance lighthearted storytelling with thoughtful exploration of human-animal relationships, making it a notable work in the evolution of children’s fiction and a precursor to modern environmental and ethical discourses.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/501</dc:source>
 		<dc:source>https://archive.org/details/storyofdoctordol00loft/</dc:source>
-		<meta property="se:word-count">25592</meta>
+		<meta property="se:word-count">25591</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_Doctor_Dolittle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hugh-lofting_the-story-of-doctor-dolittle</meta>
 		<dc:creator id="author">Hugh Lofting</dc:creator>
@@ -92,6 +90,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
