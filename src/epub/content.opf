@@ -62,6 +62,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/501</dc:source>
 		<dc:source>https://archive.org/details/storyofdoctordol00loft/</dc:source>
 		<meta property="se:word-count">25591</meta>
+		<meta property="se:reading-ease.flesch">81.83</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_Doctor_Dolittle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hugh-lofting_the-story-of-doctor-dolittle</meta>
 		<dc:creator id="author">Hugh Lofting</dc:creator>
