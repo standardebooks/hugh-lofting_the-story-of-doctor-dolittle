@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Story of Doctor Dolittle Being the History of His Peculiar Life at Home and Astonishing Adventures in Foreign Parts. Never Before Printed.</dc:title>
 		<meta property="file-as" refines="#fulltitle">Story of Doctor Dolittle, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Fantasy literature</dc:subject>
 		<dc:subject id="subject-2">Animals -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-3">Human-animal communication -- Juvenile fiction</dc:subject>
